@@ -1,6 +1,7 @@
 
 ![Image Profil](https://www.wallpapertip.com/wmimgs/243-2437449_minimalist-space-wallpaper.jpg)
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">Hi 👋, I'm CLEMCH</h1>
+<h3>A passionate Junior Developer from France</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=clemchdev&label=Profile%20views&color=0e75b6&style=flat" alt="clemchdev" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
