@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm CLEMCH</h1>
 <h4 align="center">A passionate Junior Developer from France</h4>
 
+- 🔭 I’m currently working on Fronten-Development
+- 🌱 I’m currently learning Database
+- 😄 Pronouns: He/Him
+- 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 
@@ -13,11 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clemchdev&show_icons=true&locale=en&layout=compact" alt="clemchdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clemchdev&show_icons=true&locale=en" alt="clemchdev" /></p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Fronten-Development
-- 🌱 I’m currently learning Database
-- 😄 Pronouns: He/Him
-
-
