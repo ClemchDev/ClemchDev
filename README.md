@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)
 <!--
 **ClemchDev/ClemchDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
