@@ -8,18 +8,19 @@
 - 🌱 I’m currently learning Database
 - 😄 Pronouns: He/Him
 
-<h3 align="left">Languages and technos :</h3>
+<h3 align="left">Languages and Technos :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,sass,react)](https://skillicons.dev) 
 
 <h3>Software :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,)](https://skillicons.dev) 
+
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clemchdev&show_icons=true&locale=en&layout=compact" alt="clemchdev" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clemchdev&show_icons=true&locale=en&layout=compact" alt="clemchdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clemchdev&show_icons=true&locale=en" alt="clemchdev" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clemchdev&show_icons=true&locale=en" alt="clemchdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clemchdev&" alt="clemchdev" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clemchdev&" alt="clemchdev" /></p>
 </p>
 
