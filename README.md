@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Fronten-Development
 - 🌱 I’m currently learning Database
 - 😄 Pronouns: He/Him
-- 
+  
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 
