@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Database
 - 😄 Pronouns: He/Him
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages and technos :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,sass,react)](https://skillicons.dev) 
 
