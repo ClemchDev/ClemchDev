@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,)](https://skillicons.dev) 
 
 <p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clemchdev&show_icons=true&locale=en&layout=compact&dark" alt="clemchdev" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clemchdev&show_icons=true&locale=en&layout=compact" alt="clemchdev" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clemchdev&show_icons=true&locale=en" alt="clemchdev" /></p>
 
