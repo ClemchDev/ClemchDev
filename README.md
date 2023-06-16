@@ -10,10 +10,11 @@
 
 <h3 align="left">Languages :</h3>
 
-<p align="center"> 
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,php,json)](https://skillicons.dev) 
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,sass,react)](https://skillicons.dev) 
+
+<h3>Software :</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,)](https://skillicons.dev) 
 <p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clemchdev&show_icons=true&locale=en&layout=compact" alt="clemchdev" /></p>
 
