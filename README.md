@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm CLEMCH</h1>
 <h4 align="center">A passionate Junior Developer from France</h4>
 
-- 🔭 I’m currently working on Fronten-Development
+- 🔭 I’m currently working on Frontend-Development
 - 🌱 I’m currently learning Database
 - 😄 Pronouns: He/Him
 
