@@ -10,11 +10,11 @@
 
 <h3 align="left">Languages and Technos :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,sass,react)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,sass,react,latex)](https://skillicons.dev) 
 
 <h3>Software :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,latex)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev) 
 
 <h3 align="left">Stats :</h3>
 
