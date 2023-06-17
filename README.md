@@ -14,7 +14,7 @@
 
 <h3>Software :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,latex)](https://skillicons.dev) 
 
 <h3 align="left">Stats :</h3>
 
