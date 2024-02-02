@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Technos :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,sass,react,latex)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,sass,react,express,mongodb,latex)](https://skillicons.dev) 
 
 <h3>Software :</h3>
 
