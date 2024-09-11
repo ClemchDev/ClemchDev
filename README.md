@@ -8,9 +8,13 @@
 - 🌱 I’m currently learning Database
 - 😄 Pronouns: He/Him
 
-<h3 align="left">Languages and Technos :</h3>
+<h3 align="left">Web :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,sass,react,express,mongodb,latex)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,sass,react,express,mongodb)](https://skillicons.dev) 
+
+<h3 align="left">Languages and technos :</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=c,latex)](https://skillicons.dev) 
 
 <h3>Software :</h3>
 
