@@ -4,8 +4,8 @@
 <h4 align="center">A passionate Junior Developer from France</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=clemchdev&label=Profile%20views&color=0e75b6&style=flat" alt="clemchdev" /> </p>
 
-- 🔭 I’m currently working on Frontend-Development
-- 🌱 I’m currently learning Database
+- 🔭 I’m currently working on Fullstack Web Development
+- 🌱 I’m currently learning Deployement on VPS
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Web :</h3>
