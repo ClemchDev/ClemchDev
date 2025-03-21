@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and technos :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,latex)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,java,php,latex)](https://skillicons.dev) 
 
 <h3>Software :</h3>
 
