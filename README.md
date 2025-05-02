@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and technos :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=sql,mongodb,nodejs,express,c,java,php,latex)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,nodejs,express,jest,c,java,php,latex)](https://skillicons.dev) 
 
 <h3>Software :</h3>
 
