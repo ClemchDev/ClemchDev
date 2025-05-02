@@ -10,15 +10,15 @@
 
 <h3 align="left">Web :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,sass,tailwind,react,express,mongodb,nextjs)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,angular,react,nextjs)](https://skillicons.dev) 
 
 <h3 align="left">Languages and technos :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,php,latex)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=sql,mongodb,nodejs,express,c,java,php,latex)](https://skillicons.dev) 
 
 <h3>Software :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,figma)](https://skillicons.dev) 
 
 <h3 align="left">Stats :</h3>
 
