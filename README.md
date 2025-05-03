@@ -1,24 +1,50 @@
+## 👋 Hi, I'm Clément !
 
-![Image Profil](./img.jpg)
-<h1 align="center">Hi 👋, I'm Clément</h1>
-<h4 align="center">A passionate Junior Developer from France</h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=clemchdev&label=Profile%20views&color=0e75b6&style=flat" alt="clemchdev" /> </p>
+🎓 Computer Science student (BUT) at IUT Paris-Rives de Seine  
+💼 Looking for a 36-month apprenticeship starting in **September 2025**  
+🌍 Based in Paris / Île-de-France — Open to hybrid remote work  
 
-- 🔭 I’m currently working on Fullstack Development
-- 🌱 I’m currently learning Deployement on VPS
-- 😄 Pronouns: He/Him
+---
 
-<h3 align="left">Web :</h3>
+### 💻 About Me
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,angular,react,nextjs)](https://skillicons.dev) 
+I'm passionate about web development and modern technologies.  
+I specialize in **FullStack web development**, write clean and tested code.
 
-<h3 align="left">Languages and technos :</h3>
+Curious, detail-oriented, and always eager to learn, I’m ready to take on new challenges and grow within a professional team.
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,nodejs,express,jest,c,java,php,latex)](https://skillicons.dev) 
+---
 
-<h3>Software :</h3>
+### 🔧 What I Can Do
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,figma)](https://skillicons.dev) 
+#### 🖥️ Frontend Development  
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,angular,nextjs)](https://skillicons.dev)
+
+#### ⚙️ Backend Development  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,c)](https://skillicons.dev)
+
+#### 🗄️ Databases  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+
+#### 🧪 Testing  
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+
+#### 🛠️ Tools, OS & Methodologies  
+[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,figma)](https://skillicons.dev)
+
+---
+
+### 🎯 What I'm Looking For
+
+- A structured and supportive company for long-term growth  
+- Opportunities to work on impactful real-world projects  
+- A team to learn from and contribute to  
+- A place to sharpen my skills
+
+---
+
+📫 **Feel free to reach out** if you'd like to connect or collaborate!
+
 
 <h3 align="left">Stats :</h3>
 
