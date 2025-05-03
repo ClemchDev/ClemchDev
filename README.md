@@ -17,20 +17,29 @@ Curious, detail-oriented, and always eager to learn, I’m ready to take on new 
 
 ### 🔧 What I Can Do
 
-#### 🖥️ Frontend Development  
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,angular,nextjs)](https://skillicons.dev)
+#### 🚀 Frontend Development  
+HTML/CSS, Sass, Tailwind, JavaScript, TypeScript, React, Angular  
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,angular)](https://skillicons.dev)
 
-#### ⚙️ Backend Development  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,php,c)](https://skillicons.dev)
+#### 🛠️ Backend Development  
+Node.js, Java, PHP, Express, Next.js  
+[![Backend](https://skillicons.dev/icons?i=nodejs,java,php,express,nextjs)](https://skillicons.dev)
+
+#### 💡 Additional Languages  
+C, Java, PHP  
+[![Languages](https://skillicons.dev/icons?i=c,java,php)](https://skillicons.dev)
+
+#### ✅ Unit Testing  
+Jest, JUnit  
+[![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) *(JUnit icon not available)*
 
 #### 🗄️ Databases  
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+SQL, MongoDB  
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-#### 🧪 Testing  
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
-
-#### 🛠️ Tools, OS & Methodologies  
-[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,figma)](https://skillicons.dev)
+#### ⚙️ Methodologies & Tools  
+Linux, Git, Agile/Scrum, REST APIs  
+[![Tools](https://skillicons.dev/icons?i=linux,git)](https://skillicons.dev)
 
 ---
 
