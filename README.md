@@ -25,6 +25,10 @@ HTML/CSS, Sass, Tailwind, JavaScript, TypeScript, React, Angular
 Node.js, Express, Next.js  
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,nextjs)](https://skillicons.dev)
 
+#### 🗄️ Databases  
+SQL, MongoDB  
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
 #### 💡 Additional Languages  
 C, Java, PHP  
 [![Languages](https://skillicons.dev/icons?i=c,java,php)](https://skillicons.dev)
@@ -32,10 +36,6 @@ C, Java, PHP
 #### ✅ Unit Testing  
 Jest, JUnit  
 [![Testing](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) *(JUnit icon not available)*
-
-#### 🗄️ Databases  
-SQL, MongoDB  
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 #### ⚙️ Methodologies & Tools  
 Linux, Git, Agile/Scrum, REST APIs  
