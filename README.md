@@ -22,8 +22,8 @@ HTML/CSS, Sass, Tailwind, JavaScript, TypeScript, React, Angular
 [![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,angular)](https://skillicons.dev)
 
 #### 🛠️ Backend Development  
-Node.js, Java, PHP, Express, Next.js  
-[![Backend](https://skillicons.dev/icons?i=nodejs,java,php,express,nextjs)](https://skillicons.dev)
+Node.js, Express, Next.js  
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nextjs)](https://skillicons.dev)
 
 #### 💡 Additional Languages  
 C, Java, PHP  
