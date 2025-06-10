@@ -1,7 +1,9 @@
+![img](./img.jpg)
+
 ## 👋 Hi, I'm Clément !
 
 🎓 Computer Science student (BUT) at IUT Paris-Rives de Seine  
-💼 Looking for a 36-month apprenticeship starting in **September 2025**  
+💼 Looking for a 24-month apprenticeship starting in **September 2025**  
 🌍 Based in Paris / Île-de-France — Open to hybrid remote work  
 
 ---
